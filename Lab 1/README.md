@@ -81,7 +81,8 @@ _Goals:_ The goal is to maintain a clean restroom environment in a multi-person 
 
 \*\***Include pictures of your storyboards here**\*\*
 
-Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
+![plot](https://github.com/alan7622/Interactive-Lab-Hub/blob/5a9728a1bcb6c6d085517aa689d642ffe1098895/Lab%201/StorySketch1.jpg)
+
 
 \*\***Summarize feedback you got here.**\*\*
 

@@ -126,7 +126,7 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
-![plot](https://github.com/alan7622/Interactive-Lab-Hub/blob/5a9728a1bcb6c6d085517aa689d642ffe1098895/Lab%201/StorySketch1.jpg)
+![plot](https://github.com/alan7622/Interactive-Lab-Hub/blob/5a9728a1bcb6c6d085517aa689d642ffe1098895/Lab%201/DeviceCostume.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 

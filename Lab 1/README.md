@@ -71,7 +71,13 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
+_Setting:_ In the bathroom of a house dormitory
+
+_Players:_ Student's living at the dormitory (ex: student's living at the house at Cornell Tech)
+
+_Activity:_ If a student sprays liquid on the sink or toilet lid after going to the toilet or when washing hands, a red light will be displayed to warn the user to wipe up the liquid flowing out, and a green light will be displayed if there is no spray.
+
+_Goals:_ The goal is to maintain a clean restroom environment in a multi-person dormitory so that everyone can enjoy a comfortable restroom space.
 
 \*\***Include pictures of your storyboards here**\*\*
 

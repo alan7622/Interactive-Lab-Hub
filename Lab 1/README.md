@@ -136,15 +136,22 @@ Think about the setting of the device: is the environment a place where the devi
 ![plot](https://github.com/alan7622/Interactive-Lab-Hub/blob/e4687896bcc533938552c77582fa9160569966bf/Lab%201/DeviceCostume.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+
+
 I am concern that there will be only a little space to put the device and there will be a possibility will hit the device accidentally
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
+
 https://www.youtube.com/shorts/qZV_nb_KvSM
+
 https://www.youtube.com/shorts/Z1aAoKkNAsg
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
 Thanks to Tsun-Yin Hsieh and Hau Chu for helping me with the video shooting.
 
 

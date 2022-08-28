@@ -124,7 +124,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 \*\***Show the follow-up work here.**\*\*
 
 
-Follow up https://www.youtube.com/watch?v=-m1g66HW7ug
+Follow up(same as Initial) https://www.youtube.com/shorts/qZV_nb_KvSM 
 
 ## Part E. Costume the device
 

@@ -114,10 +114,11 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
+https://www.youtube.com/shorts/qZV_nb_KvSM
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
-
+https://www.youtube.com/shorts/qZV_nb_KvSM
 
 ## Part E. Costume the device
 
@@ -134,10 +135,11 @@ I am concern that there will be only a little space to put the device and there 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
-
+https://www.youtube.com/shorts/qZV_nb_KvSM
+https://www.youtube.com/shorts/Z1aAoKkNAsg
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+Thanks to Tsun-Yin Hsieh and Hau Chu for helping me with the video shooting.
 
 
 # Staging Interaction, Part 2 

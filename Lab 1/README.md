@@ -92,9 +92,11 @@ _Goals:_ The goal is to maintain a clean restroom environment in a multi-person 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+Yes. I found out that it is easy to draw the interaction device on the table. But when I try to put the device on the toiler or on the sink, there aren't lots of place to put.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+One Idea I came up to me is that maybe I can add some warning sound to make the device much more better
 
 ## Part C. Prototype the device
 

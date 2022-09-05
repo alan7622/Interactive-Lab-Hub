@@ -166,6 +166,15 @@ This describes the second week's work for this lab activity.
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 \*\***Summarize feedback from your partners here.**\*\*
+As I faced some issues for setting my video to private, so , I wasn't able to get video feedbacks from my partners
+
+From Calvin:
+
+Storyboard is a good idea and well drawn out. Couldn't view the videos as they are private and not accessible to me. Will update after reviewing the videos.
+
+From Sidarth:
+
+Hey Alan, it seems to me like the links to your videos aren't working as they're private. Could you fix that to, say, the 'unlisted' setting so I can view it?
 
 ## Make it your own
 

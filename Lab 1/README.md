@@ -193,3 +193,6 @@ Attached to the toilet <br />
 Attached to the sink <br />
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/bathroom2.png" width=70% height=70%>
 
+#### Wake Up Light System
+Place on the table next to the bed <br />
+<img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/wakeUp.png" width=70% height=70%>

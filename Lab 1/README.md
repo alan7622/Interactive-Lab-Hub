@@ -189,6 +189,7 @@ Do last week’s assignment again, but this time:
 
 #### Water Spill Warning Device (2 different scenarios)
 Attached to the toilet <br />
-<img src="https://github.com/anjvyas/Interactive-Lab-Hub/blob/Fall2022/Lab%201/bathroom1.jpg" width=70% height=70%> <br />
+<img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/bathroom1.png" width=70% height=70%> <br />
 Attached to the sink <br />
-<img src="https://github.com/anjvyas/Interactive-Lab-Hub/blob/Fall2022/Lab%201/bathroom2.jpg" width=70% height=70%>
+<img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/bathroom2.png" width=70% height=70%>
+

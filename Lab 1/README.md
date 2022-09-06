@@ -213,6 +213,9 @@ Placed on your Desk<br />
 Notification Device that is placed on the table  <br />
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/notificationDevice.jpg" width=70% height=70%> <br />
 
+## Part B. Act out the Interaction
+
+I 
 
 ## Part C. Prototype the device
 
@@ -236,15 +239,15 @@ Follow up(same as Initial) https://www.youtube.com/shorts/4iB1QFJ4A4c
 
 ## Part F. Record
 
-Study 
+The original light of the study alarm is white. When the study alarm is set up the light will turn green. When the student falls asleep the study alarm will turn red and ask the student to wake up.
 
 https://youtu.be/9ADqMo0P2ss
 
-Sleep
+The Wake Up Light System, will change to dark mode when the system is set up. When the user needs to wake up it will turn into red color and illuminates light in the eyes of the sleeper
 
 https://youtu.be/RDgdlo9fA5Y
 
-Bathroom
+If a student sprays liquid on the sink or toilet lid after going to the toilet or when washing hands, a red light will be displayed to warn the user to wipe up the liquid flowing out, and a green light will be displayed if there is no spray.
 
 https://youtu.be/RDgdlo9fA5Y
 

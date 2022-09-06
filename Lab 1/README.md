@@ -213,6 +213,9 @@ Placed on your Desk<br />
 Notification Device that is placed on the table  <br />
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/notificationDevice.jpg" width=70% height=70%> <br />
 
+## Part B. Act out the Interaction
+
+I 
 
 ## Part C. Prototype the device
 
@@ -222,9 +225,12 @@ I think it will be great to use Docker, so that their will be no environment and
 
 
 ## Part D. Wizard the device
+Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-I did not face any trouble wizarding the device and setting everything up
+\*\***Show the follow-up work here.**\*\*
 
+
+Follow up(same as Initial) https://www.youtube.com/shorts/4iB1QFJ4A4c
 
 
 ## Part E. Costume the device

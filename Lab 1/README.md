@@ -249,5 +249,9 @@ Bathroom
 
 https://youtu.be/RDgdlo9fA5Y
 
-I filmed the interactions video with the help of my friend (who is not in the class) and made use of iMovie.
 
+\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+
+Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+Thank Jonathan Tan and Tsun-Yin Hsieh for helping me with the video shooting.

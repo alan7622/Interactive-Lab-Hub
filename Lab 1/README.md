@@ -201,4 +201,18 @@ Placed on the table next to the bed <br />
 Placed on your study table<br />
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/studyReminder.jpg" width=70% height=70%> <br />
 
+#### Thief Warning Device
+Placed on the door to prevent thieves from stealing things <br />
+<img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/thief.jpg" width=70% height=70%> <br />
+
+#### Sound-controlled music color-changing speaker
+Placed on your Desk<br />
+<img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/speaker.jpg" width=70% height=70%> <br />
+
+#### Busy Notification Device
+Notification Device that is placed on the table  <br />
+<img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/notificationDevice.jpg" width=70% height=70%> <br />
+
+
+
 

@@ -194,5 +194,11 @@ Attached to the sink <br />
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/bathroom2.png" width=70% height=70%> <br />
 
 #### Wake Up Light System
-Place on the table next to the bed <br />
+Placed on the table next to the bed <br />
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/wakeUp.jpg" width=70% height=70%> <br />
+
+#### Study Alarm
+Placed on your study table<br />
+<img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/studyReminder.jpg" width=70% height=70%> <br />
+
+

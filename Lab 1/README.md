@@ -220,10 +220,12 @@ I
 ## Part C. Prototype the device
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
 I think it will be great to use Docker, so that their will be no environment and dependencies installation issues.
 
 
 ## Part D. Wizard the device
+
 I did not face any trouble wizarding the device and setting everything up
 
 
@@ -233,4 +235,19 @@ I did not face any trouble wizarding the device and setting everything up
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/DeviceCostume1.jpg" width=70% height=70%> <br />
 
 
+## Part F. Record
+
+Study 
+
+https://youtu.be/9ADqMo0P2ss
+
+Sleep
+
+https://youtu.be/RDgdlo9fA5Y
+
+Bathroom
+
+https://youtu.be/RDgdlo9fA5Y
+
+I filmed the interactions video with the help of my friend (who is not in the class) and made use of iMovie.
 

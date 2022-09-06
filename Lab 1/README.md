@@ -234,7 +234,6 @@ I did not face any trouble wizarding the device and setting everything up
 
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/DeviceCostume1.jpg" width=70% height=70%> <br />
 
-
 ## Part F. Record
 
 Study 

@@ -213,9 +213,6 @@ Placed on your Desk<br />
 Notification Device that is placed on the table  <br />
 <img src="https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%201/notificationDevice.jpg" width=70% height=70%> <br />
 
-## Part B. Act out the Interaction
-
-I 
 
 ## Part C. Prototype the device
 

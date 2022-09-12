@@ -191,6 +191,10 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
 
+My code: https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%202/screen_clock.py
+
+Sketch: https://drive.google.com/drive/u/1/my-drive
+
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
 ```
@@ -204,6 +208,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
+
+https://youtu.be/S22IEwCmdEs
 
 \*\*\***Take a video of your PiClock.**\*\*\*
 

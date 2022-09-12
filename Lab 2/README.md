@@ -193,7 +193,7 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 My code: https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%202/screen_clock.py
 
-Sketch: https://drive.google.com/drive/u/1/my-drive
+Sketch: https://drive.google.com/file/d/1BKbeQ87F6r_fv80fuGsdGVye4qRwHasS/view?usp=sharing
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 

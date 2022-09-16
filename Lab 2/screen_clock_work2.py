@@ -79,11 +79,11 @@ def clockWise():
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
     if x1 < 130  and y1 == 5:
         x1 += 10
-    elif y1 < 70 and x1 == 130 :
+    elif y1 < 100 and x1 == 130 :
         y1 += 5
-    elif y1 == 70 and x1 > 0:
+    elif y1 == 100 and x1 > 0:
         x1 -= 10
-    elif x1 == 0 and y1 <= 70:
+    elif x1 == 0 and y1 <= 100:
         y1 -= 5
 
     random_number = random.randint(10,30)
@@ -100,13 +100,13 @@ def counterClockWise():
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
     random_x = random.randint(5,15)
     random_y = random.randint(5,15)
-    if x1 == 0 and y1 < 70:
+    if x1 == 0 and y1 < 100:
         y1 += 5    
-    elif y1 == 70 and x1 < 130:
+    elif y1 == 100 and x1 < 130:
         x1 += 10
     elif x1 <= 130 and y1 == 0:
         x1 -= 10
-    elif y1 <= 70 and x1 == 130:
+    elif y1 <= 100 and x1 == 130:
         y1 -= 5
 
 

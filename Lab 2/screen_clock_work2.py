@@ -54,8 +54,7 @@ bottom = height - padding
 # Alternatively load a TTF font.  Make sure the .ttf font file is in the
 # same directory as the python script!
 # Some other nice fonts to try: http://www.dafont.com/bitmap.php
-font1 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 24)
-font2 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 40)
+
 
 # Turn on the backlight
 backlight = digitalio.DigitalInOut(board.D22)
@@ -78,23 +77,22 @@ def clockWise():
     # Draw a black filled box to clear the image.
     global x1, x2, y1, y2    
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
-    if x1 < 130 and x2 < 130 and y1 == 5 and y2 == 30:
+    if x1 < 130  and y1 == 5:
         x1 += 10
-        x2 += 10
-    elif y1 < 70 and y2 < 95 and x1 == 130 and x2 == 130:
+    elif y1 < 70 and x1 == 130 :
         y1 += 5
-        y2 += 5
-    elif y1 == 70 and y2 == 95 and x1 > 0 and x2 > 0:
+    elif y1 == 70 and x1 > 0:
         x1 -= 10
-        x2 -= 10
-    elif x1 == 0 and x2 == 0 and y1 <= 70 and y2 <= 95:
+    elif x1 == 0 and y1 <= 70:
         y1 -= 5
-        y2 -= 5
+
+    random_number = random.randint(10,30)
+
+    font1 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", random_number)
 
     #TODO: fill in here. You should be able to look in cli_clock.py and stats.py
     random_color= "#"+''.join([random.choice('0123456789ABCDEF') for j in range(6)])
-    draw.text((x1,y1), time.strftime("%a %d" ), font=font1, fill=random_color)
-    draw.text((x2,y2), time.strftime("%H:%M"), font=font2, fill=random_color)
+    draw.text((x1,y1), time.strftime("%a %d %H:%M" ), font=font1, fill=random_color)
 
 def counterClockWise():
     # Draw a black filled box to clear the image.
@@ -102,24 +100,23 @@ def counterClockWise():
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
     random_x = random.randint(5,15)
     random_y = random.randint(5,15)
-    if x1 == 0 and x2 == 0 and y1 < 70 and y2 < 95:
-        y1 += random_x
-        y2 += random_y
-    elif y1 == 70 and y2 == 95 and x1 < 130 and x2 < 130:
+    if x1 == 0 and y1 < 70:
+        y1 += 5    
+    elif y1 == 70 and x1 < 130:
         x1 += 10
-        x2 += 10
-    elif x1 <= 130 and x2 <= 130 and y1 == 0 and y2 == 25:
+    elif x1 <= 130 and y1 == 0:
         x1 -= 10
-        x2 -= 10
-    elif y1 <= 70 and y2 <= 95 and x1 == 130 and x2 == 130:
+    elif y1 <= 70 and x1 == 130:
         y1 -= 5
-        y2 -= 5
 
+
+    random_number = random.randint(10,30)
+
+    font1 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", random_number)
 
     #TODO: fill in here. You should be able to look in cli_clock.py and stats.py
     random_color= "#"+''.join([random.choice('0123456789ABCDEF') for j in range(6)])
-    draw.text((x1,y1), time.strftime("%a %d" ), font=font1, fill=random_color)
-    draw.text((x2,y2), time.strftime("%H:%M"), font=font2, fill=random_color)
+    draw.text((x1,y1), time.strftime("%a %d %H:%M" ), font=font1, fill=random_color)
 
 while True:
     
@@ -129,4 +126,4 @@ while True:
         counterClockWise()
     # Display image.
     disp.image(image, rotation)
-    time.sleep(0.01)
+    time.sleep(0.03)

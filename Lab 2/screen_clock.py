@@ -114,7 +114,7 @@ def counterClockWise():
         y2 -= 5
 
 
-    #TODO: fill in here. You should be able to look in cli_clock.py and stats.py
+    #TODO: Fill in here. You should be able to look in cli_clock.py and stats.py
     draw.text((x1,y1), time.strftime("%a %d" ), font=font1, fill="#9CD9FF")
     draw.text((x2,y2), time.strftime("%H:%M"), font=font2, fill="#FF9CDB")
 

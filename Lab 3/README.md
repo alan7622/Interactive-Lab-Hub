@@ -133,7 +133,7 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 **Overall, I think the idea is really cool.**
 
 **Heather's feedback:**
-**Alan’s idea is simple and useful in everyday life. This is the fun implementation of an intellectual furniture. However, I didn’t see a video acting out any dialogue. I feel like acting out would be more interesting and straightforward.**
+**Alan’s idea is simple and useful in everyday life. This is the fun implementation of an intellectual furniture. I feel like acting out would be more interesting and straightforward.**
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?

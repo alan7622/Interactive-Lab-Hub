@@ -106,7 +106,7 @@ From a remote browser on the same network, check to make sure your webserver is 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
-![Storyboard](https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%203/storyboard.jpg)
+![Storyboard](https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%203/storyboard1.jpg)
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
@@ -136,6 +136,7 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
+![Storyboard](https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%203/storyboard.jpg)
 ## Prototype your system
 
 The system should:

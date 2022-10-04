@@ -129,6 +129,9 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 
 ## Prep for Part 2
 
+**Peter's feedback:**
+**Overall, I think the idea is really cool.**
+
 **Heather's feedback:**
 **Alan’s idea is simple and useful in everyday life. This is the fun implementation of an intellectual furniture. However, I didn’t see a video acting out any dialogue. I feel like acting out would be more interesting and straightforward.**
 
@@ -162,10 +165,8 @@ Answer the following:
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
-
+For the system with speech interactions,  I think it is important for the system to set the temperature to the range that the users like.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
-
+I could use my system to check different users preference weather, and set it to the correct temperature.

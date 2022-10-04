@@ -157,11 +157,12 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+
+I think overall it worked well, the workflow of the system is smooth.
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+The controller is easy to use in general and worked well with no latency.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 

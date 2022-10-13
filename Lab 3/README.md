@@ -106,7 +106,7 @@ From a remote browser on the same network, check to make sure your webserver is 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
-![Storyboard](https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%203/storyboard.jpg)
+![Storyboard](https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%203/storyboard1.jpg)
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
@@ -129,10 +129,17 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 
 ## Prep for Part 2
 
+**Peter's feedback:**
+**Overall, I think the idea is really cool.**
+
+**Heather's feedback:**
+**Alan’s idea is simple and useful in everyday life. This is the fun implementation of an intellectual furniture. I feel like acting out would be more interesting and straightforward.**
+
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
+![Storyboard](https://github.com/alan7622/Interactive-Lab-Hub/blob/Fall2022/Lab%203/storyboard.jpg)
 ## Prototype your system
 
 The system should:
@@ -150,18 +157,17 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+
+I think overall it worked well, the workflow of the system is smooth.
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+The controller is easy to use in general and worked well with no latency.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
-
+For the system with speech interactions,  I think it is important for the system to set the temperature to the range that the users like.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
-
+I could use my system to check different users preference weather, and set it to the correct temperature.

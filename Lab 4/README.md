@@ -287,14 +287,15 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 Floor Slippery Detector 1 (Water Detector)
 
 * Look like:
+A detector that is small, light and portable friendly
 
 [Photo]()
 
 * Work like:
 1. Floor Slippery Detector is a device that can prevent people from falling due to slippery floors. Moreover, if the floor is wet, it will warn people to be careful.
-2. Floor Slippery Detectoㄐ is set up for people who go to the toilet to avoid them slipping and falling
+2. Floor Slippery Detector is set up for people who go to the toilet to avoid them slipping and falling
 
-[Storyboard]()
+[Storyboard](https://drive.google.com/file/d/1afhHTkn5J6zYQoU71ELzHWoN-Yw-94xK/view?usp=sharing)
 
 * Act like:
 
@@ -318,10 +319,10 @@ Robust and waterproof design
 [Photo]()
 
 * Work like:
-1. Prevent water to split on the device
+1. Make the device waterproof design
 2. Make sounds to warn user that the floor is wet
 
-[Storyboard]()
+[Storyboard](https://drive.google.com/file/d/1afhHTkn5J6zYQoU71ELzHWoN-Yw-94xK/view?usp=sharing)
 
 * Act like:
 

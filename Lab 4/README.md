@@ -302,15 +302,10 @@ Floor Slippery Detector 1 (Water Detector)
 
 [Video 2]()
 
-* Feedback from Henry & Heather:
+* Feedback from Peter and Henry:
 
-1. If the water is spi
-Users don’t know that they need to aim the sensor to the target to get correct results.
-2. The screen (Adafruit MiniPiTFT) is too small to show information to users.
-
-* Reflect:
-1.	Redesign the device so that users are notified that they need to aim the sensor to the target to get correct results.
-2.	Instead of using Adafruit MiniPiTFT to show information, connect the device to the internet and put information on website. Therefore, users can access information via smartphones or laptops.
+1. If the apparatus is sprayed with water that he may get wet, it may cause him to break down
+2. I think the idea is creative and cool
 
 --------------------------------iteration 2------------------------------------
 

@@ -281,3 +281,55 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
+--------------------------------iteration 1------------------------------------
+
+* Idea:
+Floor Slippery Detector 1 (Water Detector)
+
+* Look like:
+
+[Photo]()
+
+* Work like:
+1. Floor Slippery Detector is a device that can prevent people from falling due to slippery floors. Moreover, if the floor is wet, it will warn people to be careful.
+2. Floor Slippery Detectoㄐ is set up for people who go to the toilet to avoid them slipping and falling
+
+[Storyboard]()
+
+* Act like:
+
+[Video 1]()
+
+[Video 2]()
+
+* Feedback from Henry & Heather:
+
+1. If the water is spi
+Users don’t know that they need to aim the sensor to the target to get correct results.
+2. The screen (Adafruit MiniPiTFT) is too small to show information to users.
+
+* Reflect:
+1.	Redesign the device so that users are notified that they need to aim the sensor to the target to get correct results.
+2.	Instead of using Adafruit MiniPiTFT to show information, connect the device to the internet and put information on website. Therefore, users can access information via smartphones or laptops.
+
+--------------------------------iteration 2------------------------------------
+
+* Idea:
+Floor Slippery Detector II (Water Detector II)
+
+* Look like:
+Robust and waterproof design
+
+[Photo]()
+
+* Work like:
+1. Prevent water to split on the device
+2. Make sounds to warn user that the floor is wet
+
+[Storyboard]()
+
+* Act like:
+
+[Video1]()
+
+[Video2]()

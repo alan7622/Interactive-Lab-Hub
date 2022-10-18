@@ -299,9 +299,9 @@ A detector that is small, light and portable friendly
 
 * Act like:
 
-[Video 1]()
+[Video 1 - No water on the floor](https://drive.google.com/file/d/1L_rcMXa9zz5kcR3L_OlVmkryRI4wmTXV/view?usp=sharing)
 
-[Video 2]()
+[Video 2 - Water on the floor](https://drive.google.com/file/d/1ssUqkGygBNe1KCoTJPBpX0DzVoLNz_Eu/view?usp=sharing)
 
 * Feedback from Peter and Henry:
 
@@ -326,6 +326,6 @@ Robust and waterproof design
 
 * Act like:
 
-[Video1]()
+[Video1 - No water on the floor](https://drive.google.com/file/d/1USgFMSqyyX-4e8ud9Fjeq2HIo0N1VWZs/view?usp=sharing)
 
-[Video2]()
+[Video2 - Water on the floor](https://drive.google.com/file/d/1vJPxbOZ24NLBt8m-H-servm2eftucY6V/view?usp=sharing)

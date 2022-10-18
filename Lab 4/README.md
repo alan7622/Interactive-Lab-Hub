@@ -289,7 +289,7 @@ Floor Slippery Detector 1 (Water Detector)
 * Look like:
 A detector that is small, light and portable friendly
 
-[Photo]()
+[Photo](https://drive.google.com/file/d/1DymTZkYZfn9aM2JpJc_9k6vJ4mIjVuHT/view?usp=sharing)
 
 * Work like:
 1. Floor Slippery Detector is a device that can prevent people from falling due to slippery floors. Moreover, if the floor is wet, it will warn people to be careful.
@@ -316,7 +316,7 @@ Floor Slippery Detector II (Water Detector II)
 * Look like:
 Robust and waterproof design
 
-[Photo]()
+[Photo](https://drive.google.com/file/d/1PJEWXiNFdLECKXDrFKM0O9df40knNhKa/view?usp=sharing)
 
 * Work like:
 1. Make the device waterproof design

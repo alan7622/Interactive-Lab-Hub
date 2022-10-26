@@ -350,5 +350,5 @@ Here is a demo video of our design:
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
-![image](https://user-images.githubusercontent.com/48542173/198039314-ffefdcdf-ac17-471a-aa9f-40bec51f124e.png)
+
 

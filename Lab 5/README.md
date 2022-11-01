@@ -351,4 +351,39 @@ Following exploration and reflection from Part 1, finish building your interacti
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
 
+We saw bad news, the Itaewon Halloween Disaster, on the CNN website. And we would like to apply our design in preventing this disaster happen again. 
 
+Link to the news we saw: https://www.cnn.com/2022/10/30/asia/seoul-itaewon-halloween-crush-explainer-intl-hnk
+
+This week, we would like to reflect on and improve our previous design:
+
+
+Reflection:
+
+(1) We want people to know the current level of the population intuitively. A single number cannot let people understand the current risk level directly.
+
+(2) The screen may not be sufficient to get people's attention. Moreover, we wanted to help the visually impaired access information on population density. Hence, we want to add the audio feature to our system to get more attention when needed.
+
+(3) New York is an international city. People in New York are from various regions. Hence, we want our system accessible to people speaking different languages.
+
+Design & Improvement:
+
+(1) Big Monitor
+
+Because the device will place in a large public area, we used the monitor instead of Adafruit MiniPiTFT and SparkFun Qwiic OLED screens to display the current population level. Therefore, we could get more attention from the population when the population density is at high risk.
+
+(2) Level the warning system
+
+We wanted to convey the population density to the public intuitively. Hence, we used the idea of a traffic light sign to level our warning system:
+
+- Green light indicates the space is free to enter
+- Yellow light warns people that the population is going to reach the limit
+- Red light stops people from coming into this space because the current population exceeds the limited number,  
+
+(3) Multi-language speech warning
+
+We added the multi-language speech warning feature to our device to help people speking different languages.
+
+
+Here is an improved demo video of our design:
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/8a545aed60dfc3b7c7f58afbd06442cab2ecac35/Lab%205/p8.png)](https://youtu.be/mgWyO6RLQ3o)

@@ -37,6 +37,8 @@ The tree may not recognize dance accurately because it is hard to separate dance
 
 ### Fall-back Plan
 
+The tree may not recognize dance accurately, so we might make easier detection. The tree may interact with a person when it detects a person stand in front of it. Besides, if the vibration of tree doesn't work, we may use light effects (changing or blinking colors) to interact with people instead of using vibration.
+
 
 Here is what we are going to present in the class:
 

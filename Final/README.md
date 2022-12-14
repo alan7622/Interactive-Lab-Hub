@@ -89,6 +89,13 @@ Your project is to design and build an interactive device to suit a specific app
 
 
 4. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
+
+    The following image show the big idea of our design patterns.
+
+    ![design](./a.png)
+
+
+
 5. Video of someone using your project
 
     Detect dance:

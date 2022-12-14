@@ -94,6 +94,19 @@ Your project is to design and build an interactive device to suit a specific app
 
     ![design](./a.png)
 
+    We use three Raspberry Pi to build our final design. The first Raspberry Pi is used for Pose and Age Detection and a monitor of one eye. The second Raspberry Pi is used for a monitor of one eye. The third Raspberry Pi is used for controlling the action of the LED light strip. We will explain how we will build our interaction features in the following paragraphs.
+
+    (a) Detecting dance
+
+    Use the webcam to capture the video frame, and use pre-trained Tensorflow models to detect a person’s pose. The output of the model is the coordinates of human body joints. The system determines a person dancing if the coordinates of elbows and wrists are higher than coordinates of shoulders. If it detects that a person is dancing, then it will send a topic: “dance” to MQTT.
+
+    ![design](./dance.png)
+
+    (b) Child Detection
+    
+    Use the webcam to capture the video frame, and use opencv model to detect and capture a human face. Then, we use the cropped human face image as the input of the pre-trained age detection Tensorflow model and get the prediction of the human ages. If it detects that a human age is lower than 8 years old, then it will send a topic: “child” to MQTT.
+    
+    ![design](./child.png)
 
 
 5. Video of someone using your project

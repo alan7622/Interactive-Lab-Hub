@@ -62,20 +62,10 @@ Final Project Presentations - December 6
 
 Write-up and documentation due - December 12
 
-## Objective
-
-The goal of this final project is for you to have a fully functioning and well-designed interactive device of your own design.
- 
-## Description
-Your project is to design and build an interactive device to suit a specific application of your choosing, and test the interaction with people. 
 
 ## Deliverables
 
-1. Project plan: Big idea, timeline, parts needed, fall-back plan.
-
-2. Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
-
-3. Documentation of design process
+1. Documentation of design process
 
     We plan to design this interactive party Christmas tree, because we think it's almost Christmas time and everyone will have a party in their house at Christmas time, we want to have a party Christmas tree to increase the atmosphere of Christmas.
 
@@ -88,7 +78,7 @@ Your project is to design and build an interactive device to suit a specific app
     ![This is an image](story.jpg)
 
 
-4. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
+2. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
 
     The following image show the big idea of our design patterns.
 
@@ -148,7 +138,7 @@ Your project is to design and build an interactive device to suit a specific app
 
     ![design](./tree3.png)
     
-5. Video of someone using your project
+3. Video of someone using your project
 
     Detect dance:
     [**Detect dance**](https://drive.google.com/file/d/15rq2gmozHBc9oLVDd4Webw9dt2ICojxL/view?resourcekey)
@@ -157,7 +147,7 @@ Your project is to design and build an interactive device to suit a specific app
     [**Detect child**](https://drive.google.com/file/d/1pI7sU4DAIQ9wkEXhG7b2UO2wdmEWDO99/view?resourcekey)
 
 
-6. Reflections on process (What have you learned or wish you knew at the start?)
+4. Reflections on process (What have you learned or wish you knew at the start?)
 
     We spend a lot of time finding a way to deploy pre-trained tensorflow models on the raspberry pi. We did not install the whole tensorflow package on the device because it consumed too much storage. Instead, we installed the tensorflow runtime package for deploying models.
     
@@ -165,7 +155,7 @@ Your project is to design and build an interactive device to suit a specific app
     
     We wished that we could realize the significant delay of MQTT communication between devices. Because of the delay, our party Christmas tree could not respond to people immediately and impact the user experience. If we could realize this issue earlier, we could find better ways to communicate between devices.
 
-7. Group work distribution questionnaire
+5. Group work distribution questionnaire
     
     Team work
     We discussed the features and how to implement our systems together in the beginning, and we built different features separately. At last, we integrated our features into on system with MQTT and completed the final writeup of this project.

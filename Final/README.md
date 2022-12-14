@@ -108,6 +108,20 @@ Your project is to design and build an interactive device to suit a specific app
     
     ![design](./child.png)
 
+    (c) Monitor
+    We used two Raspberry Pi as the eyes of our christmas Tree and connected Raspberry Pi through MQTT. We want to make different interactions in different situations to make our Christmas Tree more energetic and interesting. 
+    
+    1. When the Tree detects people dancing, the eyes on the monitors would become the first picture.
+
+    ![design](./1.png)
+
+    2. When the Tree detects a child, the eyes on the monitors would become the second picture. 
+
+    ![design](./2.png)
+
+    3. When the Tree didn’t detect anything, the eyes on the monitors would become the third picture. 
+
+    ![design](./3.png)
 
 5. Video of someone using your project
 

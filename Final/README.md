@@ -90,6 +90,14 @@ Your project is to design and build an interactive device to suit a specific app
 
 4. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
 5. Video of someone using your project
+
+    Detect dance:
+    [**Detect dance**](https://drive.google.com/file/d/15rq2gmozHBc9oLVDd4Webw9dt2ICojxL/view?resourcekey)
+    
+    Detect child:
+    [**Detect child**](https://drive.google.com/file/d/1pI7sU4DAIQ9wkEXhG7b2UO2wdmEWDO99/view?resourcekey)
+
+
 6. Reflections on process (What have you learned or wish you knew at the start?)
 
     We spend a lot of time finding a way to deploy pre-trained tensorflow models on the raspberry pi. We did not install the whole tensorflow package on the device because it consumed too much storage. Instead, we installed the tensorflow runtime package for deploying models.

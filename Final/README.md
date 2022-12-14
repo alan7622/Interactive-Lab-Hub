@@ -92,7 +92,25 @@ Your project is to design and build an interactive device to suit a specific app
 5. Video of someone using your project
 6. Reflections on process (What have you learned or wish you knew at the start?)
 
+    We spend a lot of time finding a way to deploy pre-trained tensorflow models on the raspberry pi. We did not install the whole tensorflow package on the device because it consumed too much storage. Instead, we installed the tensorflow runtime package for deploying models.
+    
+    On top of that, we also met some hardware problems on changing the color of our LED Strip. In the beginning, the color of the LED strip didn’t change as we programmed and sometimes turned into unexpected white light. At last, we spent lots of time searching solutions from the Internet and finally made the color changing work by changing the GPIO input of the LED strip and adjusting the frequency of the LED strip. We believe that we need to gain more understanding of hardware for Raspberry Pi, so we can develop the interactions we want in a more efficient way. 
+    
+    We wished that we could realize the significant delay of MQTT communication between devices. Because of the delay, our party Christmas tree could not respond to people immediately and impact the user experience. If we could realize this issue earlier, we could find better ways to communicate between devices.
+
 7. Group work distribution questionnaire
+    
+    Team work
+    We discussed the features and how to implement our systems together in the beginning, and we built different features separately. At last, we integrated our features into on system with MQTT and completed the final writeup of this project.
+    
+    Alan Hsieh - amh425
+    Eyes animation for the Christmas tree, MQTT receive and send, Final writeup
+    
+    Henry Wu - hw574
+    Dance and Age detection for the Christmas tree, MQTT receive and send, Final writeup
+    
+    Tsung-Yin Hsieh - th542
+    Color animation of LED Strip for the Christmas tree, MQTT receive and send, Final writeup
 
 ## Change of Design
 

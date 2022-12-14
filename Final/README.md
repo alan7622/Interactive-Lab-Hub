@@ -109,6 +109,7 @@ Your project is to design and build an interactive device to suit a specific app
     ![design](./child.png)
 
     (c) Monitor
+
     We used two Raspberry Pi as the eyes of our christmas Tree and connected Raspberry Pi through MQTT. We want to make different interactions in different situations to make our Christmas Tree more energetic and interesting. 
     
     1. When the Tree detects people dancing, the eyes on the monitors would become the first picture.
@@ -123,6 +124,30 @@ Your project is to design and build an interactive device to suit a specific app
 
     ![design](./3.png)
 
+    (d) Speaker
+
+    We add the built-in speaker in the webcam to play music or speak words. When the people are dancing, the Christmas tree will play Christmas songs (in this case, we play “We wish you a Merry Christmas” ) which means we are currently having a Christmas party.
+
+    When a child is in front the tree, the tree will tell the child to come and get a gift
+    We want to make our party christmas tree to work in different situations to let people enjoy more about the atmosphere of Christmas
+    
+    (e) LED Strip
+
+    We connect the LED Strip with a Raspberry Pi by three inputs (5V, Ground, and GPIO 10). The color of the light strip will change as the interactions happen between users and our Christmas tree. There are also three situations in the interaction process of our Christmas tree.
+
+
+    1. When the Tree detects people dancing in front of it, the color of the light strip will turn into a blinking rainbow color.
+
+    ![design](./tree1.png)
+
+    2. When the Tree detects a child standing in front of it,  the color of the light strip will change between red and green. 
+
+    ![design](./tree2.png)
+
+    3. When the Tree didn’t detect anything in front of it, the color of the light strip will change between white and yellow.
+
+    ![design](./tree3.png)
+    
 5. Video of someone using your project
 
     Detect dance:

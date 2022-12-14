@@ -85,6 +85,8 @@ Your project is to design and build an interactive device to suit a specific app
 
     Thirdly, our Christmas tree will detect different conditions and its Led strip will emit different light. We hope that by having the Christmas tree glowing. To make the Christmas tree shine like the highlight of the party.
 
+    ![This is an image](story.jpg)
+
 
 4. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
 5. Video of someone using your project

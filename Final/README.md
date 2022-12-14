@@ -77,13 +77,13 @@ Your project is to design and build an interactive device to suit a specific app
 
 3. Documentation of design process
 
-We plan to design this interactive party Christmas tree, because we think it's almost Christmas time and everyone will have a party in their house at Christmas time, we want to have a party Christmas tree to increase the atmosphere of Christmas.
+    We plan to design this interactive party Christmas tree, because we think it's almost Christmas time and everyone will have a party in their house at Christmas time, we want to have a party Christmas tree to increase the atmosphere of Christmas.
 
-About our party christmas tree, we designed three interactive parts, first we want our party christmas tree to detect when someone is dancing and the Christmas tree will sing Christmas songs, we thought of this because at Christmas time when people are dancing we want the Christmas tree to sing to make everyone feel more Christmas atmosphere.
+    About our party christmas tree, we designed three interactive parts, first we want our party christmas tree to detect when someone is dancing and the Christmas tree will sing Christmas songs, we thought of this because at Christmas time when people are dancing we want the Christmas tree to sing to make everyone feel more Christmas atmosphere.
 
-Secondly, we hope that our Christmas tree will have different eyes in different interactive situations, because we hope that our Christmas tree will give you a real human feeling.
+    Secondly, we hope that our Christmas tree will have different eyes in different interactive situations, because we hope that our Christmas tree will give you a real human feeling.
 
-Thirdly, our Christmas tree will detect different conditions and its Led strip will emit different light. We hope that by having the Christmas tree glowing. To make the Christmas tree shine like the highlight of the party.
+    Thirdly, our Christmas tree will detect different conditions and its Led strip will emit different light. We hope that by having the Christmas tree glowing. To make the Christmas tree shine like the highlight of the party.
 
 
 4. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
